@@ -24,7 +24,7 @@ void loop() {
     Serial.print('a');
     Serial.println(recdi1);
     
-    predi1=recdi1;    
+    predi1=recdi1;
   }
   
   if(predi2!=recdi2) {
@@ -32,7 +32,7 @@ void loop() {
     Serial.print('b');
     Serial.println(recdi2);
     
-    predi2=recdi2; 
+    predi2=recdi2;
   }
   
   
